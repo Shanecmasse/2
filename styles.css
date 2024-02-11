@@ -1,0 +1,37 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    border-bottom-style: solid;
+    background-color: antiquewhite;
+}
+header nav {
+    margin-right: 30px;
+}
+header nav a {
+    display: inline-block;
+    margin: 40px;
+}
+
+.content {
+    display: flex;
+}
+.content .Snakethings {
+    padding-left: 20px;
+    border-left-style: solid;
+}
+.content .sidebar {
+    padding: 70px ;
+    background-color: darkgray;
+}
+
+footer {
+    padding-top: 10px;
+    justify-content: center;
+    display: flex;
+    border-top-style: solid;
+    background-color: antiquewhite;
+}
+
+footer a {
+    margin: 30px;
+}
