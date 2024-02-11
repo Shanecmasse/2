@@ -15,7 +15,7 @@ header nav a {
 .content {
     display: flex;
 }
-.content .Snakethings {
+.content .maincontent {
     padding-left: 20px;
     border-left-style: solid;
 }
@@ -30,6 +30,7 @@ footer {
     display: flex;
     border-top-style: solid;
     background-color: antiquewhite;
+
 }
 
 footer a {
